@@ -2,7 +2,7 @@
   <img width="350" src="https://github.com/PrettyU-Skin-Health-Solutions/.github/blob/main/profile/logo.png">
 </p>
 <h1 align="center">
-PrettyU!
+PrettyU! : Empowering Personalized Skin Health Solutions
 </h1>
 
 # About Team
