@@ -5,20 +5,6 @@
 PrettyU! : Empowering Personalized Skin Health Solutions
 </h1>
 
-# About Team
-
-### Team ID : C241-PS393
-
-### Team Members
-
-1. M198D4KY3084 – Naufal Bilryan Kartanegara – Darussalam University - Machine Learning
-2. M180D4KX1991 – Fatiha Nadia Salsabila – Universitas Airlangga - Machine Learning
-3. M180D4KY2011 – Adnan Syawal Adilaha Sadikin – Universitas Airlangga - Machine Learning
-4. C009D4KY0585 – Muhammad Zharfan Alfanso – Universitas Gunadarma - Cloud Computing
-5. C113D4KY0060 – Putu Indra Satria Nugraha – ITB Stikom Bali - Cloud Computing
-6. A361D4KY4164 – Ahmad Farikh Baihaqi – Universitas Semarang - Mobile Development
-7. A361D4KX4231 – Rahesti Ditta Kinanthi – Universitas Semarang - Mobile Development
-
 # **Project Background** 
 
 In this modern era, the health and beauty of facial skin is an important concern for many people. Facial skin problems are often frustrating due to the lack of proper knowledge and information in choosing the right products. This app solves this problem by utilizing machine learning and image processing technology. Users can take a selfie of themselves, and the app will analyze the image to detect their skin type. 
@@ -33,5 +19,18 @@ We are responsible for creating the mobile application. Our responsibilities are
 3. Cloud Computing
 For the completeness of this application, we created APIs for application needs such as user login, register, and machine learning. We also integrated machine learning models and mobile app inputs by creating endpoints. Apart from that, Cloud Team provides Google Cloud infrastructure from preparing database, store models, then deployment.
 
+# About Team
+
+### Team ID : C241-PS393
+
+### Team Members
+
+1. M198D4KY3084 – Naufal Bilryan Kartanegara – Darussalam University - Machine Learning
+2. M180D4KX1991 – Fatiha Nadia Salsabila – Universitas Airlangga - Machine Learning
+3. M180D4KY2011 – Adnan Syawal Adilaha Sadikin – Universitas Airlangga - Machine Learning
+4. C009D4KY0585 – Muhammad Zharfan Alfanso – Universitas Gunadarma - Cloud Computing
+5. C113D4KY0060 – Putu Indra Satria Nugraha – ITB Stikom Bali - Cloud Computing
+6. A361D4KY4164 – Ahmad Farikh Baihaqi – Universitas Semarang - Mobile Development
+7. A361D4KX4231 – Rahesti Ditta Kinanthi – Universitas Semarang - Mobile Development
 
 <br>
